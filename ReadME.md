@@ -2,14 +2,6 @@
 
 KillTower is a program that tracks the live state of players in a PUBG mobile game. It displays the live state of each player in a table that can be sorted by team and number of live players. The program can read data from a local mockup file or a URL.
 
-**Screenshot**
-
-![](Aspose.Words.e197e77d-15a2-481c-8c6f-3d4eec009a65.001.png)
-
-**Diagram**
-
-![](Aspose.Words.e197e77d-15a2-481c-8c6f-3d4eec009a65.002.png)
-
 **Features**
 
 - Display the live state of each player in a table that can be sorted by team and number of live players.
@@ -20,6 +12,15 @@ KillTower is a program that tracks the live state of players in a PUBG mobile ga
 - The program uses PyQt5 for the user interface.
 - The program is cross-platform and can be run on Windows, Linux, and macOS.
 - The program updates the data every 1 second.
+- Abilty to bring custom fonts, backgrounds, and manny other visual modifications
+
+**Screenshot**
+
+![](Aspose.Words.e197e77d-15a2-481c-8c6f-3d4eec009a65.001.png)
+
+**Diagram**
+
+![](Aspose.Words.e197e77d-15a2-481c-8c6f-3d4eec009a65.002.png)
 
 **Usage**
 
