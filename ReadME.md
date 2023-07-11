@@ -20,7 +20,8 @@ KillTower is a program that tracks the live state of players in a PUBG mobile ga
 
 **Diagram**
 
-![](Aspose.Words.e197e77d-15a2-481c-8c6f-3d4eec009a65.002.png)
+![code2flow_UmhpUD](https://github.com/NotJeket/PUBGm-PyQt5-KillTower-Final/assets/37781149/b80ce6c0-38f0-4483-8718-76e269fae5cb)
+
 
 **Usage**
 
